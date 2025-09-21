@@ -1,0 +1,2 @@
+name: github_agent
+module: agent.py  # The name of your Python script without .py
